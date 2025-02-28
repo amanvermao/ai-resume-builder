@@ -2,7 +2,7 @@ import { UserButton, useUser } from '@clerk/clerk-react'
 import React, { useEffect, useState } from 'react'
 import AddResume from './components/AddResume'
 import GlobalAPI from '../../Service/GlobalAPI'
-import ResumeCardItem from './components/resumeCardItem'
+import ResumeCardItem from './components/ResumeCardItem'
 
 
 const Dashboard = () => {
