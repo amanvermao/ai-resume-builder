@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import { Input } from '../../../../components/ui/Input'
+import { Input } from '../../../../components/ui/input'
 import { Button } from '../../../../components/ui/button'
 import RichTextEditor from '../RichTextEditor'
 import { useParams } from 'react-router-dom'
