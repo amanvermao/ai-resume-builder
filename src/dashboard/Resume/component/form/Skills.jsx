@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import { ResumeInfoContext } from '../../../../context/ResumeInfoContext';
 import GlobalAPI from '../../../../../Service/GlobalAPI';
 import { Button } from '../../../../components/ui/button';
-import { Input } from '../../../../components/ui/Input';
+import { Input } from '../../../../components/ui/input.jsx';
 import { LoaderCircle } from 'lucide-react';
 import { Rating } from '@smastrom/react-rating'
 import '@smastrom/react-rating/style.css'
